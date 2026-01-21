@@ -1,0 +1,57 @@
+# Mindmarket — Generative Engine Optimization Map
+
+> A e-commerce business.
+
+---
+
+## Pages
+
+### דף הבית
+https://mindmarket-31ff3169.zappy5.app
+גלה גאדג'טים חכמים ומוצרים מנצחים בדרופשיפינג. Mindmarket מציעה מבחר מוצרים טכנולוגיים מובילים מאמזון ואלי אקספרס.
+
+### מוצרים
+https://mindmarket-31ff3169.zappy5.app/products
+עיין במבחר המוצרים המנצחים שלנו מאמזון ואלי אקספרס. גאדג'טים חכמים, כלים טכנולוגיים וחדשנות בכל מוצר.
+
+### אודות
+https://mindmarket-31ff3169.zappy5.app/about
+גלה את הסיפור של Mindmarket - חנות e commerce dropshipping שמביאה לך גאדג'טים חכמים ומוצרים מנצחים מהעולם.
+
+### צור קשר
+https://mindmarket-31ff3169.zappy5.app/contact
+יש לך שאלות על המוצרים שלנו? רוצה ייעוץ אישי? צור איתנו קשר ונשמח לעזור לך למצוא את הגאדג'ט המושלם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://mindmarket-31ff3169.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://mindmarket-31ff3169.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://mindmarket-31ff3169.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Mindmarket
+Mindmarket is a business in the e-commerce industry.
+
+## Target Audience
+אנשים המחפשים גאדג'טים וכלים חכמים
+
+## Industry
+e-commerce
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://mindmarket-31ff3169.zappy5.app/sitemap.xml
+- **Robots.txt**: https://mindmarket-31ff3169.zappy5.app/robots.txt

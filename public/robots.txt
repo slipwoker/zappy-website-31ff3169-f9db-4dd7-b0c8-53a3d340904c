@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mindmarket-31ff3169.zappy5.app/sitemap.xml
